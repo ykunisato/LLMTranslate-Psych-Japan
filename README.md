@@ -1,1 +1,1 @@
-# LLMTranslate-Psych-Japan-
+# LLMTranslate-Psych-Japan
